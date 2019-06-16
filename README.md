@@ -1,23 +1,7 @@
 # SwiftUI Everything
 Everything on the internet about Swift UI. It's far too new to find anything by just Googling it :)
 
-## Docs
-* **[SwiftUI](https://developer.apple.com/xcode/swiftui/)**
-* **[Official doc](https://developer.apple.com/documentation/swiftui)**
-  * **Essentials**
-    * **[Learn to Make Apps with SwiftUI](https://developer.apple.com/tutorials/swiftui/tutorials)**. Follow a series of guided tutorials to learn to make apps using SwiftUI and Xcode.
-  * **User Interface**
-    * **[Views and Controls](https://developer.apple.com/documentation/swiftui/views_and_controls)**. Present your content onscreen and handle user interactions.
-    * **[View Layout and Presentation](https://developer.apple.com/documentation/swiftui/view_layout_and_presentation)**. Combine views in stacks, generate groups and lists of views dynamically, and define view presentations and hierarchy.
-    * **[Drawing and Animation](https://developer.apple.com/documentation/swiftui/drawing_and_animation)**. Enhance your views with colors, shapes, and shadows, and customize animated transitions between view states.
-    * **[Framework Integration](https://developer.apple.com/documentation/swiftui/framework_integration)**. Integrate SwiftUI views into existing apps, and embed AppKit, UIKit, and WatchKit views and controllers into SwiftUI view hierarchies.
-  * **Data and Events**
-    * **[State and Data Flow](https://developer.apple.com/documentation/swiftui/state_and_data_flow)**. Control and respond to the flow of data and changes within your app’s models.
-    * **[Gestures](https://developer.apple.com/documentation/swiftui/gestures)**. Define interactions from taps, clicks, and swipes to fine-grained gestures.
-  * **Previews in Xcode**
-    * **[Previews](https://developer.apple.com/documentation/swiftui/previews)**. Generate dynamic, interactive previews of your custom views.
-
-#### Session Videos
+## Session Videos
 * **[Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/)**
 * **[SwiftUI Essentials](https://developer.apple.com/videos/play/wwdc2019/216)**
 * **[Data Flow Through SwiftUI](https://developer.apple.com/videos/play/wwdc2019/226)**
@@ -28,7 +12,7 @@ Everything on the internet about Swift UI. It's far too new to find anything by 
 * **[SwiftUI on watchOS](https://developer.apple.com/videos/play/wwdc2019/219)**
 * **[Mastering Xcode Previews](https://developer.apple.com/videos/play/wwdc2019/233)**
 
-#### Tutorials
+## Tutorials
 * **[Creating and Combining Views](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)**
 * **[Working with UI Controls](https://developer.apple.com/tutorials/swiftui/working-with-ui-controls)**
 * **[Handling User Input](https://developer.apple.com/tutorials/swiftui/handling-user-input)**
@@ -38,16 +22,16 @@ Everything on the internet about Swift UI. It's far too new to find anything by 
 * **[Composing Complex Interfaces](https://developer.apple.com/tutorials/swiftui/composing-complex-interfaces)**
 * **[Interfacing with UIKit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit)**
 
-#### Books
+## Books
 * **[Swift UI by Tutorials](https://store.raywenderlich.com/products/advanced-ios-summer-bundle-2019)** _(Preorder)_ by [Ray wenderlich](https://www.raywenderlich.com/)
 * **[Combine: Asynchronous Programming with Swift](https://store.raywenderlich.com/products/advanced-ios-summer-bundle-2019)** _(Preorder)_ by [Ray wenderlich](https://www.raywenderlich.com/)
 * **[Catalyst by Tutorials](https://store.raywenderlich.com/products/advanced-ios-summer-bundle-2019)** _(Preorder)_ by [Ray wenderlich](https://www.raywenderlich.com/)
 
-#### Courses
+## Courses
 * **[Learn SwiftUI](https://learn.designcode.io/swiftui)**. by [Meng To](https://twitter.com/mengto)
 * **[SwiftUI Quick Start Guide with iOS 13 and Xcode 11](https://www.udemy.com/swiftui-quick-start-guide-with-ios-13-and-xcode-11/?couponCode=JUANGITHUB)** . by [DevTechie Interactive](https://www.udemy.com/user/anoop-tomar/)
 
-#### Articles
+## Articles
 * **[SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui)** by [Hacking with Swift](https://twitter.com/twostraws)
 * **[Get started with SwiftUI](https://www.hackingwithswift.com/articles/194/get-started-with-swiftui)** by [Hacking with Swift](https://twitter.com/twostraws)
 * **[SwiftUI’s relationship to UIKit and AppKit](https://wwdcbysundell.com/2019/swiftui-relationship-to-uikit-appkit/)** by [@SwiftBySundell](https://twitter.com/swiftbysundell)
@@ -86,7 +70,7 @@ Everything on the internet about Swift UI. It's far too new to find anything by 
 * **[SwiftUI, personal thoughts and Model-View-Presenter](https://www.dcordero.me/posts/swiftui_personal_thoughts_and_mvp.html)** by [David Cordero](https://www.dcordero.me)
 
 
-#### Repositories
+## Repositories
 * **[SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram)** A library written with SwiftUI to easily render sunburst diagrams given a tree of objects.
 * **[SwiftUI](https://github.com/Jinxiansen/SwiftUI)**. `SwiftUI` Framework Learning and Usage Guide.
 * **[SwiftUITodo](https://github.com/devxoul/SwiftUITodo)**. An example to-do list app using SwiftUI which is introduced in WWDC19.
@@ -128,7 +112,7 @@ Everything on the internet about Swift UI. It's far too new to find anything by 
 * **[Fluxus](https://github.com/johnsusek/fluxus)**. True one-way data flow for SwiftUI, inspired by Vuex.
 * **[ChartView in SwiftUI](https://github.com/AppPear/ChartView)**. Easy to use animated Chartview supporting `Bar and Piecharts`
 
-#### Videos
+## Videos
 * **[SwiftUI Sneak Preview Demo Project](https://www.youtube.com/watch?v=q421Ll4qOvc)**
 * **[How to Run SwiftUI on Mojave with Playgrounds and Sample Code](https://www.youtube.com/watch?v=VSvz62fGyYM)**
 * **[SwiftUI Basics: Dynamic Lists, HStack VStack, Images with Circle Clipped Stroke Overlays](https://www.youtube.com/watch?v=bz6GTYaIQXU)**
