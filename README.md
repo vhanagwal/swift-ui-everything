@@ -136,6 +136,3 @@ Everything on the internet about Swift UI. It's far too new to find anything by 
 * **[SwiftUI - Lists - Create Something like UITableView](https://www.youtube.com/watch?v=vLa1z5wVkq0)**
 * **[SwiftUI Tutorial - Create a list that fetches JSON](https://www.youtube.com/watch?v=xkclf3Alz8M)**
 * **[SwiftUI Complete Apps #1: Build a dynamic list app with navigation and images – Tutorial](https://www.youtube.com/watch?v=VGJBLlfSN-Y&feature=youtu.be)**
-
-## Credits
-Inspired by Juanpe :)
