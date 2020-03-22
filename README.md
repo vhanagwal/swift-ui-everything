@@ -1,5 +1,5 @@
 # SwiftUI Everything
-Everything on the internet about Swift UI. It's far too new to find anything by just Googling it :)
+(Almost) everything on the internet about Swift UI. No need to Google around anymore!
 
 ## Session Videos
 * **[Introducing SwiftUI: Building Your First App](https://developer.apple.com/videos/play/wwdc2019/204/)**
